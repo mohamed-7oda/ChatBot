@@ -1,11 +1,11 @@
-```markdown
-🤖 EMAM ChatBot 💬
+# 🤖 EMAM ChatBot 💬
 
 A chatbot built with **FastAPI** (backend) and **Streamlit** (frontend), powered by **LangChain + Cohere**.  
 It supports session-based memory so the conversation flows naturally.
 
+---
 
-📂 Project Structure
+## 📂 Project Structure
 ```
 
 ├── main.py       # FastAPI backend (chat API with Cohere)
@@ -18,7 +18,7 @@ It supports session-based memory so the conversation flows naturally.
 
 ---
 
-🚀 Features
+## 🚀 Features
 - ✅ FastAPI backend for chat requests  
 - ✅ Streamlit chat interface with modern UI  
 - ✅ Session-based conversation history  
@@ -27,9 +27,9 @@ It supports session-based memory so the conversation flows naturally.
 
 ---
 
-🛠️ Setup & Installation
+## 🛠️ Setup & Installation
 
-1. Clone the repository
+### 1. Clone the repository
 ```bash
 git clone https://github.com/your-username/chatbot-deployment.git
 cd chatbot-deployment
@@ -82,8 +82,8 @@ Opens the chatbot UI in your browser.
 * **Railway / Render / Heroku** → Deploy `main.py` (backend).
 * Optionally: host backend + frontend separately for production.
 
----
 
+---
 
 ## 📜 License
 
