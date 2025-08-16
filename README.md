@@ -1,12 +1,12 @@
 ```markdown
-# 🤖 EMAM ChatBot 💬
+🤖 EMAM ChatBot 💬
 
 A chatbot built with **FastAPI** (backend) and **Streamlit** (frontend), powered by **LangChain + Cohere**.  
 It supports session-based memory so the conversation flows naturally.
 
 ---
 
-## 📂 Project Structure
+📂 Project Structure
 ```
 
 ├── main.py       # FastAPI backend (chat API with Cohere)
@@ -19,7 +19,7 @@ It supports session-based memory so the conversation flows naturally.
 
 ---
 
-## 🚀 Features
+🚀 Features
 - ✅ FastAPI backend for chat requests  
 - ✅ Streamlit chat interface with modern UI  
 - ✅ Session-based conversation history  
