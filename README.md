@@ -1,7 +1,3 @@
-Got it ✅ — here’s a **single complete `README.md` file** you can drop directly into your GitHub repo:
-
----
-
 ```markdown
 # 🤖 EMAM ChatBot 💬
 
