@@ -89,11 +89,6 @@ Opens the chatbot UI in your browser.
 
 ---
 
-## 📸 Screenshot
-
-![Chatbot Screenshot](https://placehold.co/800x400?text=EMAM+ChatBot+UI)
-
----
 
 ## 📜 License
 
