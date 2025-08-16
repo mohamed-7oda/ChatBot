@@ -4,7 +4,6 @@
 A chatbot built with **FastAPI** (backend) and **Streamlit** (frontend), powered by **LangChain + Cohere**.  
 It supports session-based memory so the conversation flows naturally.
 
----
 
 📂 Project Structure
 ```
@@ -28,9 +27,9 @@ It supports session-based memory so the conversation flows naturally.
 
 ---
 
-## 🛠️ Setup & Installation
+🛠️ Setup & Installation
 
-### 1. Clone the repository
+1. Clone the repository
 ```bash
 git clone https://github.com/your-username/chatbot-deployment.git
 cd chatbot-deployment
