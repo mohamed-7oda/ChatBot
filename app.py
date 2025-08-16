@@ -4,10 +4,10 @@ import requests
 import uuid  # to create a unique session_id
 
 # Page config
-st.set_page_config(page_title="Simple Chatbot", page_icon="💬", layout="centered")
+st.set_page_config(page_title="EMAM ChatBot", page_icon="💬", layout="centered")
 
 # Title
-st.markdown("<h1 style='text-align: center;'>Mohamed Mahmoud Chatbot</h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align: center;'>🤖 EMAM ChatBot</h1>", unsafe_allow_html=True)
 
 # Store session_id (so the backend can keep history)
 if "session_id" not in st.session_state:
@@ -54,3 +54,4 @@ if prompt := st.chat_input("What is on your mind?"):
 
     # Save bot response
     st.session_state.messages.append({"role": "assistant", "content": answer})
+
